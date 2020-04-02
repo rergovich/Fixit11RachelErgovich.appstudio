@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnDelete",
-  "left": 236,
+  "left": 134,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 145,
-  "value": "Enter",
+  "top": 340,
+  "value": "Go to Add Customer",
   "width": "auto"
 }

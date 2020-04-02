@@ -16,7 +16,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "txtSelect.json"
+        "btnSelect.json"
       ]
     },
     {
@@ -25,7 +25,16 @@
         "forms",
         "customerSelect",
         "Elements",
-        "btnSelect.json"
+        "drpSelect.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "txtaSelect.json"
       ]
     }
   ],

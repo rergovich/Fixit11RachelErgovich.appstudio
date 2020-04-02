@@ -27,6 +27,15 @@
         "Elements",
         "btnDelete.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerDelete",
+        "Elements",
+        "drpDelete.json"
+      ]
     }
   ],
   "class": "",
